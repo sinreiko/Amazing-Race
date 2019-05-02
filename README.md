@@ -1,2 +1,3 @@
 # KWSApp
-DDWA &amp; DME Asg
+Capstone Project
+Nani, Reiko, Egi, Jieyu
